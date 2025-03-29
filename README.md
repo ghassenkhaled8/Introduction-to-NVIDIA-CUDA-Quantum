@@ -2,9 +2,9 @@
 In today's noisy intermediate-scale quantum (NISQ) era, quantum computers are still heavily affected by quantum noise. If we want to simulate their behaviour faithfully, we need a lot of computing power. NVIDIA CUDA Quantum software allows multiple CPUs or GPUs to be used for these simulations. This course will show how to program this software and how to use many of its features. Attention will be focused in particular on the simulation of quantum circuits with a larger number of qubits, the simulation of quantum noise and specific quantum circuit applications on multiple CPUs or GPUs. The final part of the course will focus on the possibilities of using specific quantum processors (QPUs) from quantum hardware manufacturers or their emulation.
 Clusters Barbora and Karolina can only be accessed using the SSH protocol. You will need an SSH client, a private SSH key, and its passphrase to log in to the cluster. Below are links to our video tutorials, which will help you to set everything up:
 
-TUTORIAL: Accessing to IT4I clusters - Windows training user - YouTube
+TUTORIAL: Accessing to IT4I clusters - Windows training user - [YouTube](https://www.youtube.com/watch?v=Ryz8LRR1krc&list=PLo0alAq_baXVfImuezMX99Zncig_dSa65&index=3&t=4s)
 
-TUTORIAL: Accessing to IT4I clusters - Linux training user - YouTube
+TUTORIAL: Accessing to IT4I clusters - Linux training user - [YouTube](https://www.youtube.com/watch?v=i139HIaVfQU&list=PLo0alAq_baXVfImuezMX99Zncig_dSa65&index=5&t=2s)
 
  Python 3.10 is recommended for the current version of NVIDIA CUDA Quantum simulator. It is also recommended to use Conda to create a separate environment for this simulator. If you are not already using Conda, you can install a minimal version (miniconda) following the instructions here: https://docs.anaconda.com/miniconda/
 
